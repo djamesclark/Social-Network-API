@@ -9,6 +9,7 @@
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Video Tutorial](#video-tutorial)
   - [Questions](#questions)
   
 ## Installation
@@ -16,6 +17,9 @@
 
 ## Usage
   To start, simply run npm start.
+
+## Video Tutorial
+https://drive.google.com/file/d/1lEa4B8DTJJm9xdP0Qu6qwojo2ZmniLds/view
 
 ## Questions
   Find me on GitHub at: djamesclark
